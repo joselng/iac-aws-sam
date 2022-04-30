@@ -34,7 +34,7 @@ Repositório sobre infraestrutura como código na AWS utilizando o AWS Serverles
 
 ### Desenvolver a aplicação
 
- - Clonar este repositório: ```git clone https://github.com/cassianobrexbit/dio-live-SAM.git```
+ - Clonar este repositório: ```git clone https://github.com/joselng/iac-aws-sam.git```
  - Acessar a pasta ```src```
  - Validar o template AWS SAM ```sam validate```
  - Build ```sam build```
